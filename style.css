@@ -1,0 +1,82 @@
+#container {
+    background-color: #bd0003;
+    max-width: 400px;
+}
+
+#header-container {
+    background-color: #bd0003;
+    position:sticky;
+    top: 0;
+    padding: 10px;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.336);
+    color: whitesmoke;
+}
+
+#solicitudes-header{
+    width: 97%;
+}
+
+#misSolicitudes-container {
+    margin-bottom: 30px;
+    margin-top: 10px;
+    color: whitesmoke;
+    padding: 10px;
+}
+
+#check-misSolicitudes {
+    background-color: #bd0003;
+    margin-left: 5px;
+    border: 1px solid whitesmoke;
+    width: 20px;
+    height: 20px;
+}
+
+.info-container {
+    background-color: whitesmoke;
+    width: 90%;
+    border-radius: 10px;
+    margin-bottom: 50px;
+    padding: 20px;
+}
+
+.header-info-container {
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+
+.title-header-info-container {
+    width: 80%;    
+}
+
+.delete-header-info-container {
+    width: 10%;
+}
+
+.share-header-info-container {
+    width: 10%;
+}
+
+.icon {
+    color: #bd0003
+}
+
+.icon-sangre {
+    width: 30px;
+    height: 30px;
+}
+
+.footer-info-container {
+    padding: 10px;
+}
+.btn-sm{
+    color:#bd0003;
+}
+
+#mas-button-container{
+    cursor: pointer;
+}
+
+.icono-sangre{
+    width: 30px;
+    height: 30px;
+}
